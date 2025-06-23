@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/lowkeydev0/NetSkor/main/main/assets/logo.png" width="30%" />
+  <img src="https://raw.githubusercontent.com/lowkeydev0/NetSkor/main/main/assets/logo.png" width="25%" />
 
 </p>
 
@@ -24,7 +24,7 @@
 > Geliştirme sürecinde hazırlanan ön izleme:
 
 <p align="center">
-   <img src="https://raw.githubusercontent.com/lowkeydev0/NetSkor/main/assets/dashboard.png" width="85%" />
+   <img src="https://raw.githubusercontent.com/lowkeydev0/NetSkor/main/main/assets/dashboard.png" width="30%" />
 </p>
 
 ---
