@@ -24,7 +24,7 @@
 > Geliştirme sürecinde hazırlanan ön izleme:
 
 <p align="center">
-   <img src="https://raw.githubusercontent.com/lowkeydev0/NetSkor/main/main/assets/dashboard.png" width="30%" />
+   <img src="https://raw.githubusercontent.com/lowkeydev0/NetSkor/main/main/assets/dashboard.png" width="60%" />
 </p>
 
 ---
