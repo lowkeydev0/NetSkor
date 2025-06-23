@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/lowkeydev0/NetSkor/main/assets/logo.png" width="80%" />
+  <img src="https://raw.githubusercontent.com/lowkeydev0/NetSkor/tree/main/main/assets/logo.png" width="80%" />
 
 </p>
 
