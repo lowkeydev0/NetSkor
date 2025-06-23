@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://hizliresim.com/19dzys6" alt="NetSkor Logo" width="120" />
+  <img src="https://ibb.co/84Ry1Jz8" alt="NetSkor Logo" width="120" />
 </p>
 
 <h1 align="center">🎓 NetSkor - YKS</h1>
@@ -23,7 +23,7 @@
 > Geliştirme sürecinde hazırlanan ön izleme:
 
 <p align="center">
-  <img src="https://hizliresim.com/1i4krrh" alt="NetSkor - Dashboard Görseli" width="85%" />
+  <img src="https://ibb.co/rR5tw0g0" alt="NetSkor - Dashboard Görseli" width="85%" />
 </p>
 
 ---
